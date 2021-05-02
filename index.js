@@ -24,4 +24,9 @@ class Dinner{
   }
 }
 
-const dinner = new Dinner ()
+const dinner = new Dinner ('balsamic salad','consomme','filet mignon',)
+
+'balsamic salad')
+    expect(newdinner.soup).to.equal('consomme')
+    expect(newdinner.entree).to.equal('filet mignon')
+    expect(newdinner._dessert).to.equal('cheesecake'
