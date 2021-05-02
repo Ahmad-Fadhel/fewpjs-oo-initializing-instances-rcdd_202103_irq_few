@@ -1,5 +1,7 @@
 // Write your code here
 
-class breakfast{
-  
+class Breakfast{
+  constructor(){
+    
+  }
 }
