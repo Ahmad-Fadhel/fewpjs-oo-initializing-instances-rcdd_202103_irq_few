@@ -23,3 +23,5 @@ class Dinner{
     this.entree = entree;
   }
 }
+
+const dinner = new Dinner ()
