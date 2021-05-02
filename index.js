@@ -7,7 +7,7 @@ class Breakfast{
   }
 }
 
-class Breakfast{
+class Lunch{
   constructor(food, drink){
     this.food = food;
     this.drink = drink;
