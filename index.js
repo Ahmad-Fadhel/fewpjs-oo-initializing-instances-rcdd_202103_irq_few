@@ -8,19 +8,19 @@ class Breakfast{
 }
 
 class Lunch{
-  constructor(salad,soup, drink, dessert){
+  constructor(salad,soup, drink){
     this.salad = salad;
     this.soup = soup;
     this.drink = drink;
-    this._dessert = dessert;
   }
 }
 
 class Dinner{
-  constructor(salad,soup, entree){
+  constructor(salad,soup, entree, dessert){
     this.salad = salad;
     this.soup = soup;
     this.entree = entree;
+        this._dessert = dessert;
   }
 }
 
